@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite the repository."
+title: "WDD Playground: git blame for the residual stream"
+abstract: "An interactive provenance explorer for GPT-2 small. It shows which neurons, attention heads, token embeddings and sparse-autoencoder features wrote each residual-stream state (Weight-Dictionary Decomposition), checks the answers by exact ablation, steers the model, and follows one write's descendants to the output."
+authors:
+  - family-names: Bhatt
+    given-names: Ronish
+    orcid: "https://orcid.org/0009-0000-8835-5380"
+version: 0.1.0
+date-released: "2026-10-31"
+license: MIT
+repository-code: "https://github.com/sunmoonron/wdd-playground"
+keywords:
+  - mechanistic interpretability
+  - provenance
+  - attribution
+  - residual stream
+  - weight-dictionary decomposition
+  - sparse autoencoders
+  - GPT-2

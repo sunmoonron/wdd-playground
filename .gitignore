@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+# data files: download them from the release, or rebuild them with label_neurons.py and label_features.py
+labels.json
+features.pt
